@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://electricitybill.github.io/sitemap.xml
+Sitemap: https://electricitybillhub.github.io/sitemap.xml
